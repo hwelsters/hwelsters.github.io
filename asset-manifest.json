@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a4bfeba.css",
+    "main.js": "/static/js/main.74b6e53e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/MarkPro-Heavy.woff": "/static/media/MarkPro-Heavy.e2c6ce4009c23ed34b48.woff",
+    "static/media/Calibre-Medium.ttf": "/static/media/Calibre-Medium.c75a2cfb4c06fd961b18.ttf",
+    "index.html": "/index.html",
+    "main.6a4bfeba.css.map": "/static/css/main.6a4bfeba.css.map",
+    "main.74b6e53e.js.map": "/static/js/main.74b6e53e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4bfeba.css",
+    "static/js/main.74b6e53e.js"
+  ]
+}
